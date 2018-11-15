@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Stephanie Coronel is a Postdoctoral Appointee at the Sandia National Laboratories. She received her Ph.D. in Aeronautics at the [California Institute of Technology](http://www.caltech.edu) in 2016 as a member of the Explosion Dynamics Laboratory, directed by Professor Joseph Shepherd. Her thesis work focused on gaseous ignition within thermal boundary layers. Stephanie received her M.S. in Aeronautics from Caltech in 2010 and her B.S. in Aerospace Engineering from the University of Texas at Arlington in 2009.
 
 ### Built on Poole
 
