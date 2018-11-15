@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Stephanie A. Coronel
-tagline:          ' '
+#tagline:          ' '
 description:      'Research website'
 url:              https://stephcoronel.github.io
 baseurl:          /MySite/
