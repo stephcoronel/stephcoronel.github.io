@@ -16,6 +16,21 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
 paginate:         5
 
 # Custom vars
