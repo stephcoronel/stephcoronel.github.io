@@ -1,0 +1,47 @@
+---
+layout: default
+title: Home
+---
+<h1>Welcome</h1>
+<p>Stephanie Coronel is a Postdoctoral Appointee at the <a href="http://sandia.gov" target="_blank" rel="noopener">Sandia National Laboratories</a>. She received her Ph.D. in Aeronautics at the California Institute of Technology in 2016 as a member of the <a href="http://shepherd.caltech.edu/EDL/" target="_blank" rel="noopener">Explosion Dynamics Laboratory</a> directed by Professor Joseph Shepherd. Her thesis work focused on gaseous ignition within thermal boundary layers. Stephanie received her M.S. in Aeronautics from Caltech in 2010 and her B.S. in Aerospace Engineering from the University of Texas at Arlington in 2009.</p>
+
+<h2>Education</h2>
+<p>PhD California Institute of Technology (2016)<br>
+Dissertation: <a href="http://thesis.library.caltech.edu/9844/1/coronel_dissertation.pdf" target="_blank" rel="noopener">Thermal Ignition Using Moving Hot Particles</a></p>
+
+<p>MS California Institute of Technology (2010)</p>
+
+<p>BS Aerospace Engineering, University of Texas at Arlington (2009)</p>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

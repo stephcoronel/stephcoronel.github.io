@@ -16,7 +16,6 @@ repository:		  "stephcoronel/MySite"
 author:
   name:           'Stephanie A. Coronel'
   url:            https://twitter.com/steph_a_coronel
-
 # Collections
 collections:
   teaching:
@@ -91,6 +90,7 @@ defaults:
 paginate:         5
 include:
     - _pages
+    - files
 # Custom vars
 version:          2.1.0
 
