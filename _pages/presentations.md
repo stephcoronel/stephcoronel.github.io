@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Presentations"
-permalink: /presentations/
+permalink: /presentations
 author_profile: true
 ---
 <a name="top"></a>
@@ -9,12 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
 ## Invited Talks
 
 <div class="message">
-  <a href="/MySite/files/CoronelWIA2018_Pres.pdf">“Compression of reactive gas pocket in a water-filled pipe.”</a> Women in Aerospace Symposium, <em>Stanford University</em>, 31 May − 1 June 2018.
+  <a href="/files/CoronelWIA2018_Pres.pdf">“Compression of reactive gas pocket in a water-filled pipe.”</a> Women in Aerospace Symposium, <em>Stanford University</em>, 31 May − 1 June 2018.
 </div>
 
 <div class="message">
@@ -26,7 +24,7 @@ author_profile: true
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelFMRC2018_Pres.pdf">“Compression Ignition of Reactive Gas Pocket in Water-Filled Pipe.”</a>  Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 6 February 2018.
+  <a href="/files/CoronelFMRC2018_Pres.pdf">“Compression Ignition of Reactive Gas Pocket in Water-Filled Pipe.”</a>  Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 6 February 2018.
 </div>
 
 <div class="message">
@@ -34,15 +32,15 @@ author_profile: true
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelURochester2017_Pres.pdf">“Quantitative imaging of ignition of gaseous mixtures.”</a> Invited Seminar, Department of Mechanical Engineering, <em>University of Rochester</em>, 15 December 2017.
+  <a href="/files/CoronelURochester2017_Pres.pdf">“Quantitative imaging of ignition of gaseous mixtures.”</a> Invited Seminar, Department of Mechanical Engineering, <em>University of Rochester</em>, 15 December 2017.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelSandiaABQ2017_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Invited Seminar, <em>Sandia National Laboratories</em>,  Albuquerque, 19 September 2017.
+  <a href="/files/CoronelSandiaABQ2017_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Invited Seminar, <em>Sandia National Laboratories</em>,  Albuquerque, 19 September 2017.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelUTSI2017_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Invited Seminar, <em>University of Tennessee Space Institute</em>, Tullahoma, 14 July 2017.
+  <a href="/files/CoronelUTSI2017_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Invited Seminar, <em>University of Tennessee Space Institute</em>, Tullahoma, 14 July 2017.
 </div>
 
 <div class="message">
@@ -50,27 +48,27 @@ author_profile: true
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelAFRL2016_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Invited Seminar, <em>Air Force Research Laboratory</em>,  Edwards AFB, 26 May 2016.
+  <a href="/files/CoronelAFRL2016_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Invited Seminar, <em>Air Force Research Laboratory</em>,  Edwards AFB, 26 May 2016.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelAFRL2016_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Thermo/Fluids Research Seminar, Mechanical and Aerospace Engineering Department, <em>University of California, Los Angeles</em>, 13 May 2016.
+  <a href="/files/CoronelAFRL2016_Pres.pdf">“Thermal ignition by moving hot particles.”</a> Thermo/Fluids Research Seminar, Mechanical and Aerospace Engineering Department, <em>University of California, Los Angeles</em>, 13 May 2016.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelFMRC2015_Pres.pdf">“Ignition of <em>n</em>-hexane-air by moving hot particles: mechanism and effect of particle diameter.”</a>  Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 15 July 2015.
+  <a href="/files/CoronelFMRC2015_Pres.pdf">“Ignition of <em>n</em>-hexane-air by moving hot particles: mechanism and effect of particle diameter.”</a>  Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 15 July 2015.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelFMRC2014_Pres.pdf">“Ignition of <em>n</em>-hexane-air mixtures by moving hot spheres.”</a>  Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 28 January 2014.
+  <a href="/files/CoronelFMRC2014_Pres.pdf">“Ignition of <em>n</em>-hexane-air mixtures by moving hot spheres.”</a>  Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 28 January 2014.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelWIA2013_Pres.pdf">“Assessing the risk of accidental explosions in aircraft by heated particles.”</a> Women in Aerospace Symposium, <em>Massachusetts Institute of Technology</em> 18-19 April 2013.
+  <a href="/files/CoronelWIA2013_Pres.pdf">“Assessing the risk of accidental explosions in aircraft by heated particles.”</a> Women in Aerospace Symposium, <em>Massachusetts Institute of Technology</em> 18-19 April 2013.
 </div>
 
 <div class="message">
-  <a href="/MySite/files/CoronelFMRC2013_Pres.pdf">“Ignition of nitrogen diluted hexane-oxygen mixtures by moving heated particles.”</a> Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 19 February 2013.
+  <a href="/files/CoronelFMRC2013_Pres.pdf">“Ignition of nitrogen diluted hexane-oxygen mixtures by moving heated particles.”</a> Fluid Mechanics Research Conference, <em>California Institute of Technology</em>, 19 February 2013.
 </div>
 
 <div class="message">
