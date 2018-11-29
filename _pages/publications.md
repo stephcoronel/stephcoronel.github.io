@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<a name="top"></a>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -60,6 +60,7 @@ author_profile: true
 </div>
 
 ## Refereed Conference Papers
+<a href="#top">Back to top</a>
 
 <div class="message">
   <a href="/MySite/files/CoronelAPCC2017.pdf">“Reduction methodology for detailed kinetic mechanisms: application to <em>n</em>-hexane-air hot surface ignition.”</a>  <strong>Stephanie A. Coronel</strong>, Josué Melguizo-Gavilanes, Dmitry Davidenko, Rémy Mével, and Joseph E. Shepherd. <em>11th Asia-Pacific Conference on Combustion,</em>, Sydney, Australia. 10 − 14 December 2017.  <a href="/MySite/files/CoronelAPCC2017_Pres.pdf">Presentation</a>
@@ -94,9 +95,10 @@ author_profile: true
 </div>
 
 ## Non-Refereed Conference Papers/Presentations
+<a href="#top">Back to top</a>
 
 <div class="message">
-  “Temporal evolution of fluid parcels in reactive thermal boundary layer.” <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>Third Annual California Alliance Retreat</em>, Berkeley, CA, USA. 8 − 9 April 2016.
+  <a href="/MySite/files/CoronelAGEP2016.pdf">“Temporal evolution of fluid parcels in reactive thermal boundary layer.”</a> <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>Third Annual California Alliance Retreat</em>, Berkeley, CA, USA. 8 − 9 April 2016. <a href="/MySite/files/CoronelAGEP2016_Pres.pdf">Presentation</a>
 </div>
 
 <div class="message">
@@ -117,6 +119,29 @@ author_profile: true
 
 <div class="message">
   “Flame speeds and combustion characteristics of undiluted and nitrogen-diluted hydrogen-nitrous oxide mixtures.” Sally P. M. Bane, Rémy Mével, <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>7th U.S. National Combustion Meeting</em>, Atlanta, GA, USA. 20 − 23 March 2011.
+</div>
+
+## Poster Presentations
+<a href="#top">Back to top</a>
+
+<div class="message">
+  <a href="/MySite/files/CoronelWIA2018.pdf">“Compression of reactive gas pocket in a water-filled pipe.”</a> <strong>Stephanie A. Coronel</strong>, Jean-Christophe Veilleux, and Joseph E. Shepherd. <em>Women in Aerospace Symposium</em>, Stanford University. 31 May − 1 June 2018. <a href="/MySite/files/CoronelWIA2018_Poster.pdf">Poster</a>
+</div>
+
+<div class="message">
+  <a href="/MySite/files/CoronelFF2016.pdf">“Temporal evolution of fluid parcels in reactive thermal boundary layer.”</a> <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>Future Fuels Workshop</em>, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia. 7 − 9 March 2016. <a href="/MySite/files/CoronelFF2016_Poster.pdf">Poster</a>
+</div>
+
+<div class="message">
+  <a href="/MySite/files/CoronelAGEP2015.pdf">“Ignition of <em>n</em>-hexane-air by moving hot particles.”</a> <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd.  <em>Second Annual California Alliance Retreat</em>, Pasadena, CA, USA. 17 − 18 April 2015.
+</div>
+
+<div class="message">
+  <a href="/MySite/files/CoronelWIPP2014.pdf">“Ignition of <em>n</em>-hexane-air mixtures by moving hot sphere.”</a> <strong>Stephanie A. Coronel</strong>, Josué Melguizo-Gavilanes, and Joseph E. Shepherd. <em>35th International Symposium on Combustion</em>, San Francisco, CA, USA. 3 − 8 August 2014. <a href="/MySite/files/CoronelWIPP2014_Poster.pdf">Poster</a>
+</div>
+
+<div class="message">
+  <a href="/MySite/files/CoronelWIPP2012.pdf">“Experimental measurement and modeling of hexane-air laminar burning speeds.”</a> <strong>Stephanie A. Coronel</strong>,  Rémy Mével, Phillip A. Boettcher, Vaughan Thomas, and Joseph E. Shepherd. <em>34th International Symposium on Combustion</em>, Warsaw, Poland. 29 July−3 August 2012. <a href="/MySite/files/CoronelWIPP2012_Poster.pdf">Poster</a>
 </div>
 
 {% for post in site.publications reversed %}
