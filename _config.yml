@@ -11,8 +11,8 @@ title:            Stephanie A. Coronel
 tagline:          'Research'
 description:      'Research website'
 url:              https://stephcoronel.github.io
-baseurl:          /MySite/
-repository:		  "stephcoronel/MySite"
+baseurl:          /
+repository:		  "stephcoronel/stephcoronel.github.io"
 author:
   name:           'Stephanie A. Coronel'
   url:            https://twitter.com/steph_a_coronel
@@ -84,7 +84,7 @@ include:
 version:          2.1.0
 
 github:
-  repo:           https://github.com/stephcoronel/MySite
+  repo:           https://github.com/stephcoronel/stephcoronel.github.io
 
 theme: jekyll-theme-minimal
 
