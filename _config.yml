@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Stephanie A. Coronel
 tagline:          'Research'
 description:      'Research website'
-#url:              https://stephcoronel.github.io
+url:              http://stephaniecoronel.com
 baseurl:          ""
 repository:		  "stephcoronel/stephcoronel.github.io"
 author:
