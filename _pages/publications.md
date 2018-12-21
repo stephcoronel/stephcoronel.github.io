@@ -96,7 +96,7 @@ author_profile: true
 <a href="#top">Back to top</a>
 
 <div class="message">
-  <a href="/files/CoronelAGEP2016.pdf">“Temporal evolution of fluid parcels in reactive thermal boundary layer.”</a> <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>Third Annual California Alliance Retreat</em>, Berkeley, CA, USA. 8 − 9 April 2016. <a href="/files/CoronelAGEP2016_Pres.pdf">Presentation</a>
+  <a href="/files/CoronelAGEP2016.pdf">“Temporal evolution of fluid parcels in reactive thermal boundary layer.”</a> <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>Third Annual California Alliance Retreat</em>, Berkeley, CA, USA. 8 − 9 April 2016.
 </div>
 
 <div class="message">
