@@ -37,9 +37,9 @@ During my PhD, I experimentally and numerically studied ignition by moving hot s
 
 ![vessel](/assets/experiment.png){:width="250px" .center-image}
 
-Visualization of the ignition and flame propagation of n-hexane-air by moving hot particles is shown below; the first and second gifs correspond to no-ignition and ignition, respectively.
+Visualization of the ignition and flame propagation of n-hexane-air by moving hot particles is shown below; the top and bottom images correspond to no-ignition and ignition, respectively.
 
-![gif1](/assets/hexane1.gif){:width="100px" .center-image} ![gif2](/assets/hexane22.gif){:width="100px" .center-image}
+![gif1](/assets/interferograms_shot17.png){:width="250px" .center-image} ![gif2](/assets/interferograms_shot18.png){:width="250px" .center-image}
 
 The effect of equivalence ratio on particle/flame interation for n-hexane-air is shown below.
 
