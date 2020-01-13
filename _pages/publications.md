@@ -12,11 +12,6 @@ author_profile: true
 ## Journal Articles
 
 <div class="message">
-  <a href="https://arxiv.org/abs/1810.09654">“Experimental <em>n</em>-Hexane-Air Expanding Spherical Flames.”</a> Stephanie A. Coronel, Simon Lapointe, Rémy Mével, Vaughan L. Thomas, Nabiha Chaumeix, and Joseph E. Shepherd. Submitted to <em>Fuel</em>.
-</div>
-
-
-<div class="message">
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010218018300993">“Experimental and numerical study on moving hot particle ignition.”</a> Stephanie A. Coronel, Josué Melguizo-Gavilanes, Rémy Mével, and Joseph E. Shepherd. <em>Combustion and Flame</em>, 192: 495-906, 2018. <a href="/files/CoronelCNF2018.pdf">PDF</a>
 </div>
 
