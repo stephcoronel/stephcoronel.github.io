@@ -12,10 +12,6 @@ author_profile: true
 ## Journal Articles
 
 <div class="message">
-  “Ignition of a stoichiometric hydrogen-oxygen mixture through a water-hammer event.” Jean-Christophe Veilleux, Stephanie A. Coronel, and Joseph E. Shepherd. In preparation for <em>Combustion and Flame</em>.
-</div>
-
-<div class="message">
   <a href="https://arxiv.org/abs/1810.09654">“Experimental <em>n</em>-Hexane-Air Expanding Spherical Flames.”</a> Stephanie A. Coronel, Simon Lapointe, Rémy Mével, Vaughan L. Thomas, Nabiha Chaumeix, and Joseph E. Shepherd. Submitted to <em>Fuel</em>.
 </div>
 
@@ -61,6 +57,22 @@ author_profile: true
 <a href="#top">Back to top</a>
 
 <div class="message">
+  “Ignition of Stoichiometric Hydrogen-Oxygen by Water Hammer.” Stephanie A. Coronel, Jean-Christophe Veilleux, and Joseph E. Shepherd. Submitted to <em>38th International Symposium on Combustion</em>, Adelaide, Australia. 12 - 17 July 2020.
+</div>
+
+<div class="message">
+  “Response of PETN Detonators to Elevated Temperatures.” Submitted to <em>38th International Symposium on Combustion</em>, Adelaide, Australia. 12 - 17 July 2020.
+</div>
+
+<div class="message">
+  <a href="/files/CoronelICDERS2019_flames.pdf">“Analysis of synthetic flames.”</a> <strong>Stephanie A. Coronel</strong>, Rémy Mével,  and Joseph E. Shepherd. <em>27th International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, Beijing, China. 24 − 29 July 2019.
+</div>
+
+<div class="message">
+  <a href="/files/CoronelICDERS2019_hexane.pdf">“Experimental <em>n</em>-hexane-air expanding spherical flames.”</a> <strong>Stephanie A. Coronel</strong>, Simon Lapointe, Rémy Mével, Nabiha Chaumeix, and Joseph E. Shepherd. <em>27th International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, Beijing, China. 24 − 29 July 2019.
+</div>
+
+<div class="message">
   <a href="/files/CoronelAPCC2017.pdf">“Reduction methodology for detailed kinetic mechanisms: application to <em>n</em>-hexane-air hot surface ignition.”</a>  <strong>Stephanie A. Coronel</strong>, Josué Melguizo-Gavilanes, Dmitry Davidenko, Rémy Mével, and Joseph E. Shepherd. <em>11th Asia-Pacific Conference on Combustion,</em>, Sydney, Australia. 10 − 14 December 2017.  <a href="/files/CoronelAPCC2017_Pres.pdf">Presentation</a>
 </div>
 
@@ -94,6 +106,10 @@ author_profile: true
 
 ## Non-Refereed Conference Papers/Presentations
 <a href="#top">Back to top</a>
+
+<div class="message">
+  <a href="/files/CoronelNCM2019.pdf">“Boundary layer ignition modeling.”</a> <strong>Stephanie A. Coronel</strong>, Simon Lapointe, and Joseph E. Shepherd. <em>11th U.S. National Combustion Meeting</em>, Pasadena, CA, USA. 24 − 27 March 2019. <a href="/files/CoronelNCM2019_Pres.pdf">Presentation</a>
+</div>
 
 <div class="message">
   <a href="/files/CoronelAGEP2016.pdf">“Temporal evolution of fluid parcels in reactive thermal boundary layer.”</a> <strong>Stephanie A. Coronel</strong>, and Joseph E. Shepherd. <em>Third Annual California Alliance Retreat</em>, Berkeley, CA, USA. 8 − 9 April 2016.
