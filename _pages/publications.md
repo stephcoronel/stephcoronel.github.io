@@ -52,11 +52,11 @@ author_profile: true
 <a href="#top">Back to top</a>
 
 <div class="message">
-  “Ignition of Stoichiometric Hydrogen-Oxygen by Water Hammer.” Stephanie A. Coronel, Jean-Christophe Veilleux, and Joseph E. Shepherd. Submitted to <em>38th International Symposium on Combustion</em>, Adelaide, Australia. 12 - 17 July 2020.
+  “Ignition of Stoichiometric Hydrogen-Oxygen by Water Hammer.” <strong>Stephanie A. Coronel</strong>, Jean-Christophe Veilleux, and Joseph E. Shepherd. Submitted to <em>38th International Symposium on Combustion</em>, Adelaide, Australia. 12 - 17 July 2020.
 </div>
 
 <div class="message">
-  “Response of PETN Detonators to Elevated Temperatures.” Submitted to <em>38th International Symposium on Combustion</em>, Adelaide, Australia. 12 - 17 July 2020.
+  “Response of PETN Detonators to Elevated Temperatures.” <strong>Stephanie A. Coronel</strong> and Michael J. Kaneshige. Submitted to <em>38th International Symposium on Combustion</em>, Adelaide, Australia. 12 - 17 July 2020.
 </div>
 
 <div class="message">
