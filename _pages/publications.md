@@ -60,11 +60,11 @@ author_profile: true
 </div>
 
 <div class="message">
-  <a href="/files/CoronelICDERS2019_flames.pdf">“Analysis of synthetic flames.”</a> <strong>Stephanie A. Coronel</strong>, Rémy Mével,  and Joseph E. Shepherd. <em>27th International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, Beijing, China. 24 − 29 July 2019.
+  <a href="/files/CoronelICDERS2019_flames.pdf">“Analysis of synthetic flames.”</a> <strong>Stephanie A. Coronel</strong>, Rémy Mével,  and Joseph E. Shepherd. <em>27th International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, Beijing, China. 24 − 29 July 2019. <a href="/files/NonLinearPres_final.pdf">Presentation</a>
 </div>
 
 <div class="message">
-  <a href="/files/CoronelICDERS2019_hexane.pdf">“Experimental <em>n</em>-hexane-air expanding spherical flames.”</a> <strong>Stephanie A. Coronel</strong>, Simon Lapointe, Rémy Mével, Nabiha Chaumeix, and Joseph E. Shepherd. <em>27th International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, Beijing, China. 24 − 29 July 2019.
+  <a href="/files/CoronelICDERS2019_hexane.pdf">“Experimental <em>n</em>-hexane-air expanding spherical flames.”</a> <strong>Stephanie A. Coronel</strong>, Simon Lapointe, Rémy Mével, Nabiha Chaumeix, and Joseph E. Shepherd. <em>27th International Colloquium on the Dynamics of Explosions and Reactive Systems</em>, Beijing, China. 24 − 29 July 2019. <a href="/files/HexaneFlamePres_final.pdf">Presentation</a>
 </div>
 
 <div class="message">
